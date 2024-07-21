@@ -68,7 +68,7 @@ To install the XSS Scanner, follow these steps:
 2. **Navigate to the Project Directory**:
 
     ```bash
-    cd xss-scanner
+    cd XsScan
     ```
 
 3. **Install the Required Modules**:
